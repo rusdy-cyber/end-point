@@ -32,6 +32,12 @@ php artisan db:seed --class=LoginSeeder
 buat file laravel baru ambil file vendor dan ganti ke file vendor project ini
 ```
 ## setting post man
+`unduh post man`
+
+login menggunakan gmail
+```
+https://www.postman.com/downloads/
+```
 #### salin link
 ```
 http://127.0.0.1/[nama file di htdocs]/public/api
